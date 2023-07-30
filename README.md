@@ -1,5 +1,8 @@
-### Hi, my name Vadim, Im a frontend developer 👋
+### Hi, my name Vadim, 👋
 ---
+Im frontend developer from Saint-Petersburg.
+--- 
+Message me in Telegram: <a href="https://t.me/Vadicus"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/></a>
 <!--
 **vadicusrad/vadicusrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
