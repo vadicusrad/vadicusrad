@@ -1,5 +1,4 @@
-### Hi, my name Vadim, 👋
-Im frontend developer from Saint-Petersburg.
+### Hi, my name Vadim, 👋 Im frontend developer.
 
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
