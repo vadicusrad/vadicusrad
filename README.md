@@ -14,8 +14,12 @@ Im frontend developer from Saint-Petersburg.
 
 --- 
 <a href="https://t.me/Vadicus"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%B4%D0%B8%D0%BC-%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-318a38261/)
+<a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%B4%D0%B8%D0%BC-%D0%B0%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-318a38261">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+---
+<a target="_blank" href="https://www.codewars.com/users/Vadicus" ><img src="https://www.codewars.com/users/Novikov-Pavel/badges/small" /></a>
 <!--
 **vadicusrad/vadicusrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
