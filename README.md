@@ -19,7 +19,7 @@ Im frontend developer from Saint-Petersburg.
 </a>
 
 ---
-<a target="_blank" href="https://www.codewars.com/users/Vadicus" ><img src="https://www.codewars.com/users/Novikov-Pavel/badges/small" /></a>
+<a target="_blank" href="https://www.codewars.com/users/Vadicus" ><img src="https://www.codewars.com/users/Vadicus/badges/small" /></a>
 <!--
 **vadicusrad/vadicusrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
